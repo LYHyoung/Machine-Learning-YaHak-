@@ -1,3 +1,6 @@
+# https://bit.ly/2PCYMuW
+
+################################
 import pandas as pd
 # 파일로부터 데이터 읽어오기
 파일경로 = 'https://raw.githubusercontent.com/blackdew/tensorflow1/master/csv/lemonade.csv'
